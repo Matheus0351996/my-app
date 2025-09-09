@@ -8,7 +8,7 @@ export function Testimonials(){
                 <div>
                     <h2 className="text-2xl font-bold">Depoimento dos nossos clientes</h2> 
                 </div>
-            <div className="bg-[#1e293b]">{/*  */}
+            <div className="bg-[#1e293b] text-white">{/*  */}
                 fdsfsdfsdf
             </div>    
             </div>
